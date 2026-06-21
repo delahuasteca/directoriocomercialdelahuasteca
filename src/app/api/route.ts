@@ -6,8 +6,7 @@ export async function GET() {
     name: 'DeLaHuasteca',
     version: '1.0.0',
     description: 'Directorio Digital Empresarial de la Huasteca',
-    database: false,
     dataStorage: 'JSON',
-    contactForm: 'Gmail SMTP',
+    contactForm: 'WhatsApp',
   })
 }
