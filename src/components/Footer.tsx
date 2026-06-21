@@ -86,7 +86,7 @@ export default function Footer() {
             <ul className="space-y-3">
               <li>
                 <a
-                  href="https://wa.me/524831234567"
+                  href="https://wa.me/527716810542"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-2 text-sm text-gray-400 hover:text-green-400 transition-colors"
@@ -97,11 +97,11 @@ export default function Footer() {
               </li>
               <li className="flex items-center gap-2 text-sm text-gray-400">
                 <Phone className="w-4 h-4 text-emerald-400 flex-shrink-0" />
-                (483) 123-4567
+                (771) 681-0542
               </li>
               <li className="flex items-start gap-2 text-sm text-gray-400">
                 <MapPin className="w-4 h-4 text-emerald-400 flex-shrink-0 mt-0.5" />
-                Ciudad Valles, San Luis Potosí, México
+                Huejutla de Reyes, Hidalgo, México
               </li>
             </ul>
             <button
